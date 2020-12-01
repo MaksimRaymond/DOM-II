@@ -85,3 +85,4 @@ window.addEventListener('paste', function(e) {
         alert('You have select this')
        });
        
+       
